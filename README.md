@@ -11,7 +11,7 @@ B.Sc. CSIT student in Nepal. I build interactive web projects with React, three.
 - [2D Portfolio](https://github.com/I3igyanh/2D_portfolio): A 2D game portfolio inspired by JSLegendDev. [Live site](https://bigyanhimalaya.netlify.app/)
 
 ## Tech
-![JavaScript](https://skillicons.dev/icons?i=js,react,nextjs,python,java,blender,git)
+![JavaScript](https://skillicons.dev/icons?i=js,react,nextjs,python,java,blender,git,node.express)
 
 ## Find me
 [Portfolio](https://bigyanhimalaya.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/bigyan-himalaya-6a918a291/) · [Email](mailto:him410935@gmail.com)
