@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Bigyanh 👋
 
-<!--
-**I3igyanh/I3igyanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Sc. CSIT student in Nepal. I build interactive web projects with React, three.js, and Blender, and I edit video for brands.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🎮 Building interactive web experiences and portfolio projects
+- 📚 Learning: Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured
+- [3D Teddy Bear](https://github.com/I3igyanh/3D_Teddy_bear): A 3D teddy bear made with Blender and brought to life in the browser with React and three.js. [Live demo](https://teddy01.netlify.app/)
+- [2D Portfolio](https://github.com/I3igyanh/2D_portfolio): A 2D game portfolio inspired by JSLegendDev. [Live site](https://bigyanhimalaya.netlify.app/)
+
+## Tech
+![JavaScript](https://skillicons.dev/icons?i=js,react,nextjs,python,java,blender,git)
+
+## Find me
+[Portfolio](https://bigyanhimalaya.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/bigyan-himalaya-6a918a291/) · [Email](mailto:him410935@gmail.com)
